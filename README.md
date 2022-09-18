@@ -2,7 +2,7 @@
 If you want to open a image(`img`) on page in `HTML` with `JavaScript`, use this function
 
 ## Getting Started
-Read the description below to get started with `Sfullscreen`.
+Read the description below to get started with `imageSmodal`.
 
 ### How to use?
 
