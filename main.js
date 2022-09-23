@@ -1,5 +1,5 @@
 /*!
-  * IMGsModal > forget(https://sazl.ir/);
+  * IMGsModal > Owner is https://github.com/sazl-ir;
   * Copyright 2020-2021;
   */
   var smodal = document.getElementById("SAZLmodal");
