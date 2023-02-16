@@ -1,6 +1,6 @@
 /*!
   * IMGsModal > Owner is https://github.com/khoshghalb2c;
-  * Copyright 2020-2021;
+  * Copyright © 2020;
   */
   var smodal = document.getElementById("Smodal");
   var code_html = '<div id="smodal-bg"></div><img id="smodal-content-img"/>';
